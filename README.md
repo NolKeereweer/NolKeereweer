@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NolKeereweer
 - 👀 I’m interested in Computers, Cars and music
-- 🌱 I’m currently learning C# programming
+- 🌱 I’m currently learning Java programming
 
 
 <!---
