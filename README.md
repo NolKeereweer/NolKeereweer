@@ -2,6 +2,8 @@
 - 👀 I’m interested in Computers, Cars and music
 - 🌱 I’m currently learning Java programming
 
+- The good boy in my profile picture is Tommie :)
+
 
 <!---
 NolKeereweer/NolKeereweer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
