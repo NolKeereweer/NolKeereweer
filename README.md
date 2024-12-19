@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NolKeereweer
 - 👀 I’m interested in Computers, Cars and music
-- 🌱 I’m currently learning Java programming
+- 🌱 I’m currently looking for a job in programming
 
 - The good boy in my profile picture is Tommie :)
 
